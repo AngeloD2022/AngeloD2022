@@ -5,8 +5,7 @@ I'm a passionate software engineer that programs for fun. I love to do research 
 Below, you will find a few of the things I'm enthusiastic about (in no particular order)...
 
 * **Learning new things**
-* Binary Analysis
-* Program Analysis
+* Binary/Program Analysis
 * Reverse Engineering
 * Embedded Systems
 * Code Security and Obfuscation
