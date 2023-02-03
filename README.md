@@ -6,6 +6,7 @@ Below, you will find a few of the things I'm enthusiastic about (in no particula
 
 * **Learning new things**
 * Binary Analysis
+* Program Analysis
 * Reverse Engineering
 * Embedded Systems
 * Code Security and Obfuscation
