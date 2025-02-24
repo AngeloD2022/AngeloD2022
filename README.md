@@ -13,9 +13,3 @@ Below are a few of the things I'm enthusiastic about (in no particular order)...
 * Build Systems
 * Cryptography
 * Computer Vision and Machine Learning
-
-## Statistics
-> [!NOTE]
-Please take these with a grain of salt; most of the projects I have created are closed source reverse engineering research.
-
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=AngeloD2022&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Angelo's github stats" /></a>
